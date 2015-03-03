@@ -1,0 +1,7 @@
+//These are some of the auto buy binds that I have setup
+
+bind "kp_enter" "buy ak47; buy m4a1; buy glock; buy hkp2000; buy vesthelm; buy flashbang; buy flashbang; buy hegrenade; buy smokegrenade;"
+bind "kp_del" "buy glock; buy hkp2000; buy vest; buy decoy;"
+bind "kp_plus" "buy sg556; buy aug; buy tec9; buy fiveseven; buy vesthelm; buy flashbang; buy flashbang; buy smokegrenade;"
+bind "kp_minus" "buy awp; buy glock; buy hkp2000; buy vesthelm; buy flashbang; buy flashbang; buy hegrenade; buy smokegrenade;"
+bind "kp_multiply" "buy nova; buy glock; buy hkp2000; buy vesthelm; buy taser; buy flashbang; buy flashbang; buy smokegrenade; buy molotov; buy incgrenade;;"
